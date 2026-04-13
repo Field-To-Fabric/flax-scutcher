@@ -7,7 +7,7 @@ The flax scutching machine will have two interlocking turbines, each turbine bla
 
 Rough sketch of a single turbine:
 
-<img src="./img/single_turbine_sketch.jpg" width="600">  
+<img src="./img/single_turbine_sketch.jpg" width="300">  
 
 The turbines will be held in a plywood frame. The axles will be attached to pillow blocks fastened to a 60x60 extrusion bar (itself fastened to the plywood). This will allow the distance between the turbines to be adjusted as we don't yet know what the ideal separation is.
 
