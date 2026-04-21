@@ -17,3 +17,7 @@ The flax will be held by a clamp and guided by a U-channel that passes between t
 
 <img src="./img/turbine_with_flax_sketch.jpg" width="1000">
 
+One of the turbines will be driven from the motor on one side. On the other side the two turbines are linked in such a way that they are driven in opposite directions. Here is a sketch of this transmission arrangement:
+
+
+<img src="./img/turbine_transmission.jpg" width="1000">
