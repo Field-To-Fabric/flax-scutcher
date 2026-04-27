@@ -36,6 +36,7 @@ For the motor:
 - 2012 taperlock bush, 1inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/20121-Taper-Bush-Dunlop-2373-p))
 
 For the turbines:
+
 - 2 x 30 teeth 08B1 Roller Chain Simplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4130-Roller-Chain-Sprocket-6195-p))
 - 2 x 2012 taperlock bush, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/20121-Taper-Bush-Dunlop-2373-p))
 - 2 x 20 teeth 08B1 Roller Chain Simplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4120-Roller-Chain-Sprocket-6155-p))
@@ -47,3 +48,7 @@ For the turbines:
 - 2 x 200mm mild steel tube (3mm wall)
 - 4 x pillow block bearing, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/UCPUCPX-Pillow-Blocks/UCP20516-Dunlop-1inch-Pillow-Block-Bearing-10790-p))
 - 4 x 2 bolt flanged bearing, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2-Bolt-Flanged-Bearings/UCFL20516-Dunlop-2-Bolt-Oval-Flange-Bearing-with-1inch-Bearing-Insert--10919-p)) 
+
+Hardware:
+- 24 x m8 threaded insert for wood 13mm length ([Accu](https://www.accu.co.uk/threaded-inserts-for-wood/649066-HCSTIF-M8-13-14-5-BZP))
+- 24 x m8 joint connector bolts ([Accu](https://www.accu.co.uk/search?Length+%28L%29=50+mm&Thread+Size=M8&cs_ids=2272&query=m8+bolt))
